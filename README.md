@@ -1,1 +1,1 @@
-# Lufuno-gads-2020-projects
+# Lufuno's GADS project submissions
